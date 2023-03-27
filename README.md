@@ -11,7 +11,7 @@
     <br>
 
 <h3>vizualização em celular:</h3>
-    <img src="./Wide-coverage-phone.png alt="celular"/>
+    <img src="./Wide-coverage-phone.png" alt="celular"/>
 <br>
 
 <h4>Vizualização em Desktop:</h4>
